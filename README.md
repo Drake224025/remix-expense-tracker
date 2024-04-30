@@ -1,36 +1,11 @@
-# Welcome to Remix + Vite!
+# Project Name
 
-📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/guides/vite) for details on supported features.
+## Step 1: Project Setup
 
-## Development
+### Initializing Remix Project
 
-Run the Vite dev server:
+To kick off our project, we've completed the following steps:
 
-```shellscript
-npm run dev
-```
-
-## Deployment
-
-First, build your app for production:
-
-```sh
-npm run build
-```
-
-Then run the app in production mode:
-
-```sh
-npm start
-```
-
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying Node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-- `build/server`
-- `build/client`
+1. **Initialized Remix Project:** We've initialized a Remix project to set the foundation for our application.
+2. **Installed Chakra UI for Styling:** Chakra UI is integrated into our project for beautiful and responsive styling.
+3. **Set Up Prisma ORM with SQLite:** Prisma is configured as our Object-Relational Mapping (ORM) tool, enabling seamless interaction with SQLite databases.
